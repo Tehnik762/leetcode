@@ -28,7 +28,3 @@ class Solution:
         nums.sort(key=lambda a: a == "_" )
         return unique
 
-b = Solution()
-nums = [0,1,1,22,22,34,35]
-print(b.removeDuplicates(nums))
-print(nums)
