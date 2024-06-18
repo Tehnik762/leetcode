@@ -21,15 +21,3 @@ class Solution:
         return len(st[0])
 
 
-test = [
-    ("Hello World", 5),
-    ("   fly me   to   the moon  ", 4),
-    ("luffy is still joyboy", 6),
-    ("a", 1),
-    ("a ", 1),
-]
-
-b = Solution()
-
-for t in test:
-    print(b.lengthOfLastWord(t[0]) == t[1])
