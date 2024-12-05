@@ -11,7 +11,7 @@ This repository contains my solutions to various LeetCode coding challenges usin
 
 ## Introduction
 
-Welcome to my LeetCode solutions repository! Here, you'll find my implementations and explanations for coding problems from LeetCode. Each solution is provided in Python and is aimed at demonstrating my problem-solving skills and coding proficiency.
+Welcome to my LeetCode solutions repository! Here, you'll find my implementations and explanations for coding problems from LeetCode. Each solution is provided in Python or JavaScript and is aimed at demonstrating my problem-solving skills and coding proficiency.
 
 ## Solutions
 
