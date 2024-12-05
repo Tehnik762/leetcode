@@ -22,7 +22,7 @@ Feel free to explore the solutions and provide feedback if you find any improvem
 
 ## Contact
 
-You can connect with me on professional networking platforms like [XING](https://www.xing.com/profile/Anton_Braslavskii/). Don't hesitate to reach out if you have any questions or would like to discuss coding challenges, programming, or potential opportunities.
+You can connect with me on professional networking platforms like [XING](https://www.xing.com/profile/Anton_Braslavskii/) or [Linkedin](https://www.linkedin.com/in/anton-braslavskii/). Don't hesitate to reach out if you have any questions or would like to discuss coding challenges, programming, or potential opportunities.
 If you want to reach me by email - please use this - anton АТ braslavskii.com (don't forget to change "at" -> @)
 
 
